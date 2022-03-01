@@ -1,0 +1,30 @@
+.form {
+  width: 80%;
+}
+.formulario {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input {
+  height: 30px;
+  width: 80%;
+  max-width: 350px;
+  margin-top: 20px;
+  padding-left: 10px;
+}
+
+p {
+  width: 70%;
+}
+
+button {
+  height: 30px;
+  width: 80%;
+  max-width: 350px;
+  margin-top: 10px;
+  background-color: aquamarine;
+  border: none;
+  border-radius: 8px;
+}
